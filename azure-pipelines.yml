@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: 'demovm4'
+  name: 'MyAgent'
 
 steps:
 - task: Maven@3
